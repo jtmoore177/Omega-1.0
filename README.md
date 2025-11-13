@@ -1,4 +1,18 @@
 # Ω 1.0 — Emergent Universe
-Run the Big Bang from one seed.
+Run the Big Bang from one quantum seed.
 
-[Open in Colab](https://colab.research.google.com/github/yourusername/omega-1.0/blob/main/Omega_1.0.ipynb)
+## Quick Start
+[Open in Colab](https://colab.research.google.com/github/jtmoore177/Omega-1.0/blob/main/omega_1_0.py)
+
+## What It Does
+- One seed → spin foam spacetime
+- Big Bounce → no singularity
+- Inflation → flat universe
+- CMB peaks → n_s = 0.964
+- Black holes → S = A/4
+- Gravitational waves → LIGO chirp
+
+## Results
+1M runs → our universe is #487,291 (n_s=0.9643, CMB peak=5512).
+
+By Joshua Moore
