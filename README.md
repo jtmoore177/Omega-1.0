@@ -2,7 +2,7 @@
 Run the Big Bang from one quantum seed.
 
 ## Quick Start
-[Open in Colab](https://colab.research.google.com/github/jtmoore177/Omega-1.0/blob/main/omega_1_0.py)
+[Open in Colab](https://colab.research.google.com/github/jtmoore177/Omega-1.0/blob/main/Omega1.0.ipynb)
 
 ## What It Does
 - One seed → spin foam spacetime
