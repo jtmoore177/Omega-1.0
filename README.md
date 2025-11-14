@@ -20,4 +20,5 @@ By Joshua Moore
 
 | Ω 1.1 | Fixed growth, bounce, CMB | [Colab](https://colab.research.google.com/github/jtmoore177/Omega-1.0/blob/main/Omega_1_1.ipynb) |
 
-| **Ω 2.1** | Matter + 3D | [Colab](|https://colab.research.google.com/github/jtmoore177/Omega-1.0/blob/main/Omega_2_1.ipynb)
+
+| **Ω 2.1** | Spacetime + Matter | [Colab](https://colab.research.google.com/github/jtmoore177/Omega-1.0/blob/main/Omega_2_1.ipynb) |
