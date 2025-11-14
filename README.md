@@ -16,3 +16,5 @@ Run the Big Bang from one quantum seed.
 1M runs → our universe is #487,291 (n_s=0.9643, CMB peak=5512).
 
 By Joshua Moore
+
+| **Ω 1.1** | Fixed growth, bounce, CMB, 3D | [Colab](https://colab.research.google.com/github/jtmoore177/Omega-1.0/blob/main/omega_1_1.py) |
