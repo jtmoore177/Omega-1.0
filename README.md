@@ -17,4 +17,5 @@ Run the Big Bang from one quantum seed.
 
 By Joshua Moore
 
-| **Ω 1.1** | Fixed growth, bounce, CMB, 3D | [Colab](https://colab.research.google.com/github/jtmoore177/Omega-1.0/blob/main/omega_1_1.py) |
+
+| Ω 1.1 | Fixed growth, bounce, CMB | [Colab](https://colab.research.google.com/github/jtmoore177/Omega-1.0/blob/main/Omega_1_1.ipynb) |
