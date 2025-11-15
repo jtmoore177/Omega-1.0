@@ -11,7 +11,7 @@ Conceptual Python Simulation Model
 - CMB peaks → n_s = 0.964
 - Black holes → S = A/4
 - Gravitational waves → LIGO chirp
-- 
+  
 1M runs → our universe is #487,291 (n_s=0.9643, CMB peak=5512).
 
 ## What It Currently Does
