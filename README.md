@@ -1,6 +1,5 @@
 # Ω 1.0 — Emergent Universe 
-Python Simulation model
-Conceptual
+Conceptual Python Simulation Model
 
 ## Quick Start (Sandbox)
 [Open in Colab](https://colab.research.google.com/github/jtmoore177/Omega-1.0/blob/main/Omega1.0.ipynb)
@@ -15,15 +14,19 @@ Conceptual
 1M runs → our universe is #487,291 (n_s=0.9643, CMB peak=5512).
 
 ## What It Currently Does
-Test runs with Grok AI
-Nothing 
+Test runs with Grok AI- 
+Nothing- 
 Teach, hopefully
 
 ## Takeaways
 Fundamentally flawed
+
 Learn fundamentals
+
 Keep AI out of Thinking
+
 Intro to Github
+
 Intro to Colab
 
 
